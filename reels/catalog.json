@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "clips": [
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 20.0,
+      "bytes": 30378739,
+      "fps": 30.0,
+      "id": "skiresortsimulator-zermatt-golden-hour-flyover",
+      "project": "skiresortsimulator",
+      "title": "Zermatt golden hour flyover",
+      "caption": "Golden hour over Zermatt, the Matterhorn standing exactly where it should.",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-00.jpg"
+        },
+        {
+          "at": 4.76,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-01.jpg"
+        },
+        {
+          "at": 8.52,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-02.jpg"
+        },
+        {
+          "at": 12.28,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-03.jpg"
+        },
+        {
+          "at": 16.04,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-04.jpg"
+        },
+        {
+          "at": 19.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/zermatt-golden-hour-flyover-05.jpg"
+        }
+      ],
+      "added": "2026-11-10"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 16.0,
+      "bytes": 25725326,
+      "fps": 30.0,
+      "id": "skiresortsimulator-snowcat-driving-mini-game",
+      "project": "skiresortsimulator",
+      "title": "Snowcat driving mini game",
+      "caption": "While the guests sleep, the night shift starts.",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-00.jpg"
+        },
+        {
+          "at": 3.96,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-01.jpg"
+        },
+        {
+          "at": 6.92,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-02.jpg"
+        },
+        {
+          "at": 9.88,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-03.jpg"
+        },
+        {
+          "at": 12.84,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-04.jpg"
+        },
+        {
+          "at": 15.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/snowcat-driving-mini-game-05.jpg"
+        }
+      ],
+      "added": "2026-11-10"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 18.0,
+      "bytes": 29238079,
+      "fps": 30.0,
+      "id": "skiresortsimulator-mountain-railway-ride",
+      "project": "skiresortsimulator",
+      "title": "Mountain railway ride",
+      "caption": "Front seat on the mountain railway, the rails curving up through the snow.",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-00.jpg"
+        },
+        {
+          "at": 4.36,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-01.jpg"
+        },
+        {
+          "at": 7.72,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-02.jpg"
+        },
+        {
+          "at": 11.08,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-03.jpg"
+        },
+        {
+          "at": 14.44,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-04.jpg"
+        },
+        {
+          "at": 17.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/mountain-railway-ride-05.jpg"
+        }
+      ],
+      "added": "2026-11-10"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 18.0,
+      "bytes": 29706457,
+      "fps": 30.0,
+      "id": "skiresortsimulator-heli-ski-drop",
+      "project": "skiresortsimulator",
+      "title": "Heli ski drop",
+      "caption": "Mid-morning, a yellow helicopter, and a drop zone no lift reaches.",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-00.jpg"
+        },
+        {
+          "at": 4.36,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-01.jpg"
+        },
+        {
+          "at": 7.72,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-02.jpg"
+        },
+        {
+          "at": 11.08,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-03.jpg"
+        },
+        {
+          "at": 14.44,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-04.jpg"
+        },
+        {
+          "at": 17.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/heli-ski-drop-05.jpg"
+        }
+      ],
+      "added": "2026-11-10"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 16.0,
+      "bytes": 25647119,
+      "fps": 30.0,
+      "id": "skiresortsimulator-festival-pond-skim",
+      "project": "skiresortsimulator",
+      "title": "Festival pond skim",
+      "caption": "7 April, Spring Splash: skis on, full speed, straight at the pool.",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-00.jpg"
+        },
+        {
+          "at": 3.96,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-01.jpg"
+        },
+        {
+          "at": 6.92,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-02.jpg"
+        },
+        {
+          "at": 9.88,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-03.jpg"
+        },
+        {
+          "at": 12.84,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-04.jpg"
+        },
+        {
+          "at": 15.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-10/festival-pond-skim-05.jpg"
+        }
+      ],
+      "added": "2026-11-10"
+    }
+  ]
+}
