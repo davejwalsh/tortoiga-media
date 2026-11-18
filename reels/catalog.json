@@ -132,6 +132,48 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 6.83,
+      "bytes": 6772843,
+      "fps": 24.0,
+      "id": "skiresortsimulator-husky-dog-sled",
+      "project": "skiresortsimulator",
+      "title": "Husky dog sled",
+      "caption": "Hike! Take a husky team out through the snowy forest, gate to gate. 🐺🛷 #dogsledding #huskies",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-00.jpg"
+        },
+        {
+          "at": 2.13,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-01.jpg"
+        },
+        {
+          "at": 3.25,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-02.jpg"
+        },
+        {
+          "at": 4.38,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-03.jpg"
+        },
+        {
+          "at": 5.5,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-04.jpg"
+        },
+        {
+          "at": 6.63,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-05.jpg"
+        }
+      ],
+      "added": "2026-11-18"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 12.0,
       "bytes": 12303919,
       "fps": 24.0,
