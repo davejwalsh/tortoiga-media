@@ -175,6 +175,48 @@
       "width": 1080,
       "height": 1920,
       "duration": 10.0,
+      "bytes": 17421441,
+      "fps": 24.0,
+      "id": "skiresortsimulator-biathlon-race",
+      "project": "skiresortsimulator",
+      "title": "Biathlon race",
+      "caption": "Biathlon: skate hard, steady the breathing, five targets. 🎯⛷️ #biathlon #crosscountry",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-00.jpg"
+        },
+        {
+          "at": 2.76,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-01.jpg"
+        },
+        {
+          "at": 4.52,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-02.jpg"
+        },
+        {
+          "at": 6.28,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-03.jpg"
+        },
+        {
+          "at": 8.04,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-04.jpg"
+        },
+        {
+          "at": 9.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/biathlon-race-05.jpg"
+        }
+      ],
+      "added": "2026-11-18"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 10.0,
       "bytes": 17368588,
       "fps": 24.0,
       "id": "skiresortsimulator-avalanche-dog-search",
