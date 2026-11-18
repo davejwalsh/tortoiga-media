@@ -48,6 +48,48 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 10.0,
+      "bytes": 17429068,
+      "fps": 24.0,
+      "id": "skiresortsimulator-runaway-snowcat-chase",
+      "project": "skiresortsimulator",
+      "title": "Runaway snowcat chase",
+      "caption": "A snowcat has slipped its brakes and is sliding down the piste. Catch it! 🚜💨 #snowcat #chase",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-00.jpg"
+        },
+        {
+          "at": 2.76,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-01.jpg"
+        },
+        {
+          "at": 4.52,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-02.jpg"
+        },
+        {
+          "at": 6.28,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-03.jpg"
+        },
+        {
+          "at": 8.04,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-04.jpg"
+        },
+        {
+          "at": 9.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/runaway-snowcat-chase-05.jpg"
+        }
+      ],
+      "added": "2026-11-18"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 12.0,
       "bytes": 12303919,
       "fps": 24.0,
