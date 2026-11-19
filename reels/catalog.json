@@ -90,6 +90,48 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 7.12,
+      "bytes": 7296136,
+      "fps": 24.0,
+      "id": "skiresortsimulator-powder-patrol-gates",
+      "project": "skiresortsimulator",
+      "title": "Powder patrol gates",
+      "caption": "Powder patrol: first tracks through the gates before the lifts open. ⛷️❄️ #powder #skiing",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-00.jpg"
+        },
+        {
+          "at": 2.18,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-01.jpg"
+        },
+        {
+          "at": 3.37,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-02.jpg"
+        },
+        {
+          "at": 4.55,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-03.jpg"
+        },
+        {
+          "at": 5.74,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-04.jpg"
+        },
+        {
+          "at": 6.92,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/powder-patrol-gates-05.jpg"
+        }
+      ],
+      "added": "2026-11-19"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 13.0,
       "bytes": 15042885,
       "fps": 24.0,
@@ -291,48 +333,6 @@
         {
           "at": 9.8,
           "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/santa-sleigh-night-run-05.jpg"
-        }
-      ],
-      "added": "2026-11-18"
-    },
-    {
-      "container": "mov,mp4,m4a,3gp,3g2,mj2",
-      "codec": "h264",
-      "width": 1080,
-      "height": 1920,
-      "duration": 6.58,
-      "bytes": 6595514,
-      "fps": 24.0,
-      "id": "skiresortsimulator-powder-patrol-gates",
-      "project": "skiresortsimulator",
-      "title": "Powder patrol gates",
-      "caption": "Powder patrol: first tracks through the gates before the lifts open. ⛷️❄️ #powder #skiing",
-      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates.mp4",
-      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-00.jpg",
-      "frames": [
-        {
-          "at": 1.0,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-00.jpg"
-        },
-        {
-          "at": 2.08,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-01.jpg"
-        },
-        {
-          "at": 3.15,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-02.jpg"
-        },
-        {
-          "at": 4.23,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-03.jpg"
-        },
-        {
-          "at": 5.3,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-04.jpg"
-        },
-        {
-          "at": 6.38,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/powder-patrol-gates-05.jpg"
         }
       ],
       "added": "2026-11-18"
