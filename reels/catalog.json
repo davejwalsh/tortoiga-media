@@ -132,6 +132,48 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 14.0,
+      "bytes": 17946796,
+      "fps": 24.0,
+      "id": "skiresortsimulator-fireworks-over-mountain-town",
+      "project": "skiresortsimulator",
+      "title": "Fireworks over mountain town",
+      "caption": "New Year’s Eve in Mountain Town: the whole valley lights up. 🎆🏔️ #fireworks #newyearseve",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-00.jpg"
+        },
+        {
+          "at": 3.56,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-01.jpg"
+        },
+        {
+          "at": 6.12,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-02.jpg"
+        },
+        {
+          "at": 8.68,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-03.jpg"
+        },
+        {
+          "at": 11.24,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-04.jpg"
+        },
+        {
+          "at": 13.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/fireworks-over-mountain-town-05.jpg"
+        }
+      ],
+      "added": "2026-11-19"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 10.0,
       "bytes": 17361880,
       "fps": 24.0,
