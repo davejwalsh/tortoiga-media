@@ -6,6 +6,48 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 13.92,
+      "bytes": 18932849,
+      "fps": 24.0,
+      "id": "skiresortsimulator-skidoo-big-air-slow-motion",
+      "project": "skiresortsimulator",
+      "title": "Skidoo big air slow motion",
+      "caption": "Full throttle, kicker ahead… and SEND IT. 🛷💨 #skidoo #snowmobile #bigair",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-00.jpg"
+        },
+        {
+          "at": 3.54,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-01.jpg"
+        },
+        {
+          "at": 6.09,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-02.jpg"
+        },
+        {
+          "at": 8.63,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-03.jpg"
+        },
+        {
+          "at": 11.18,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-04.jpg"
+        },
+        {
+          "at": 13.72,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/skidoo-big-air-slow-motion-05.jpg"
+        }
+      ],
+      "added": "2026-11-19"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 15.58,
       "bytes": 24271036,
       "fps": 24.0,
