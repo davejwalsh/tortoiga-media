@@ -6,6 +6,48 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 15.58,
+      "bytes": 24271036,
+      "fps": 24.0,
+      "id": "skiresortsimulator-helicopter-rescue-red-smoke",
+      "project": "skiresortsimulator",
+      "title": "Helicopter rescue red smoke",
+      "caption": "Red smoke on the mountain. Fly in low, hold the hover, winch them aboard and head for home. 🚁🔥 #helicopter #mountainrescue",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-00.jpg"
+        },
+        {
+          "at": 3.88,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-01.jpg"
+        },
+        {
+          "at": 6.75,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-02.jpg"
+        },
+        {
+          "at": 9.63,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-03.jpg"
+        },
+        {
+          "at": 12.5,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-04.jpg"
+        },
+        {
+          "at": 15.38,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-19/helicopter-rescue-red-smoke-05.jpg"
+        }
+      ],
+      "added": "2026-11-19"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 10.0,
       "bytes": 17361880,
       "fps": 24.0,
@@ -249,48 +291,6 @@
         {
           "at": 6.63,
           "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/husky-dog-sled-05.jpg"
-        }
-      ],
-      "added": "2026-11-18"
-    },
-    {
-      "container": "mov,mp4,m4a,3gp,3g2,mj2",
-      "codec": "h264",
-      "width": 1080,
-      "height": 1920,
-      "duration": 12.0,
-      "bytes": 20934349,
-      "fps": 24.0,
-      "id": "skiresortsimulator-helicopter-rescue-red-smoke",
-      "project": "skiresortsimulator",
-      "title": "Helicopter rescue red smoke",
-      "caption": "Mayday on the mountain: fly the rescue helicopter to the red smoke and winch them up. 🚁 #helicopter #mountainrescue",
-      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke.mp4",
-      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-00.jpg",
-      "frames": [
-        {
-          "at": 1.0,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-00.jpg"
-        },
-        {
-          "at": 3.16,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-01.jpg"
-        },
-        {
-          "at": 5.32,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-02.jpg"
-        },
-        {
-          "at": 7.48,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-03.jpg"
-        },
-        {
-          "at": 9.64,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-04.jpg"
-        },
-        {
-          "at": 11.8,
-          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-18/helicopter-rescue-red-smoke-05.jpg"
         }
       ],
       "added": "2026-11-18"
