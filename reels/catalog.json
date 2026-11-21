@@ -6,6 +6,90 @@
       "codec": "h264",
       "width": 1080,
       "height": 1920,
+      "duration": 17.0,
+      "bytes": 25450453,
+      "fps": 24.0,
+      "id": "skiresortsimulator-first-light-to-floodlights",
+      "project": "skiresortsimulator",
+      "title": "First light to floodlights",
+      "caption": "Sunrise to floodlights, then the groomers head out into the snow. One day at the resort. 🌅➡️🌙 #MountainAdventure #nightskiing",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-00.jpg"
+        },
+        {
+          "at": 4.16,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-01.jpg"
+        },
+        {
+          "at": 7.32,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-02.jpg"
+        },
+        {
+          "at": 10.48,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-03.jpg"
+        },
+        {
+          "at": 13.64,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-04.jpg"
+        },
+        {
+          "at": 16.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/first-light-to-floodlights-05.jpg"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
+      "duration": 9.0,
+      "bytes": 9562729,
+      "fps": 24.0,
+      "id": "skiresortsimulator-christmas-in-the-mountains",
+      "project": "skiresortsimulator",
+      "title": "Christmas in the mountains",
+      "caption": "The lights are up. Christmas in the mountains, blue hour and fresh snow. 🎄✨ #MountainAdventure #christmas",
+      "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains.mp4",
+      "thumb": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-00.jpg",
+      "frames": [
+        {
+          "at": 1.0,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-00.jpg"
+        },
+        {
+          "at": 2.56,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-01.jpg"
+        },
+        {
+          "at": 4.12,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-02.jpg"
+        },
+        {
+          "at": 5.68,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-03.jpg"
+        },
+        {
+          "at": 7.24,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-04.jpg"
+        },
+        {
+          "at": 8.8,
+          "url": "https://davejwalsh.github.io/tortoiga-media/reels/skiresortsimulator/2026-11-21/christmas-in-the-mountains-05.jpg"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "width": 1080,
+      "height": 1920,
       "duration": 13.92,
       "bytes": 15913348,
       "fps": 24.0,
